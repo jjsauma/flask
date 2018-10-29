@@ -29,9 +29,4 @@ Then from a web browser, visit the address:
 http://127.0.0.1:5000/form. 
 
 This will show a window asking for the parameters for this report. Dates should be written using the format ‘YYYYMMDD’.
- 
-- All parameters are mandatory and should follow the format ‘YYYY-MM-DD HH:MM’ for dates and lowercase for strings.
-- To run, it is necessary to run python in terminal window, music_report.py file and parameters for start, end and channel, like in the following example:
-python music_report.py '2018-01-01 10:00' '2018-02-25 13:45' 'rte'
-
 
