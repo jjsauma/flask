@@ -1,5 +1,5 @@
 # flask
-In this code I create an web API to read and process a csv file using flask and pandas.
+In this code I create a web API to read and process a csv file using flask and pandas.
 
 Considerations and how to use
 ● All code was tested on Python2.7 running on a Mac with MacOS 10.14.
